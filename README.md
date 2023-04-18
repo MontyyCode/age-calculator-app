@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MontyyCode/age-calculator-app.git)
-- Live Site URL: [Add live site URL here](https://montyycode-age-calculator.netlify.app/)
+- Solution URL: (https://github.com/MontyyCode/age-calculator-app.git)
+- Live Site URL: (https://montyycode-age-calculator.netlify.app/)
 
 
 
